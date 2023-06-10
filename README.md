@@ -1,2 +1,2 @@
 ##  REDES
-![Screenshot](pattern.png)
+![Screenshot](redes.jpg)
