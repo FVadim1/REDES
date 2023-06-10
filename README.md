@@ -1,2 +1,2 @@
-# REDES_
- 2º. Obligatoria
+##  REDES
+![Screenshot](redes.jpg)
